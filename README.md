@@ -13,4 +13,4 @@ Rotting Oranges : <br>
 
 
 Find Ball Problem : <br>
-!findBall.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/findball.jpg)
+![findBall.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/findball.jpg)
