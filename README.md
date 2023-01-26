@@ -9,4 +9,8 @@ This repo contains my leetcode solutions with Python.
 <br><br>
 
 Rotting Oranges : <br>
-![rotting_oranges.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/rotting%20oranges.jpg)
+![rotting_oranges.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/rotting%20oranges.jpg) <br><br>
+
+
+Find Ball Problem : <br>
+!findBall.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/findball.jpg)
