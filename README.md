@@ -14,3 +14,9 @@ This repo contains my leetcode solutions with Python.
 
 <b>Find Ball Problem : </b><br>
 ![findBall.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/findball.jpg)
+
+
+<br><br>
+
+<b>Spiral : </b><br>
+![spiral.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/spiral.jpg) <br><br>
