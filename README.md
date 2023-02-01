@@ -23,3 +23,6 @@ This repo contains my leetcode solutions with Python.
 
 <b>Longest Palindrom with Counter : </b><br>
 ![longest_palindrom.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/longest_palindrome.jpg) <br><br>
+
+<b>Invert Tree : </b><br>
+![invert_tree.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/invert_tree.jpg)<br><br>
