@@ -19,3 +19,7 @@ This repo contains my leetcode solutions with Python.
 
 <b>Spiral : </b><br>
 ![spiral.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/spiral.jpg) <br><br>
+
+
+<b>Longest Palindrom with Counter : </b><br>
+![longest_palindrom.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/longest_palindrome.jpg) <br><br>
