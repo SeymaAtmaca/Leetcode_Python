@@ -26,3 +26,9 @@ This repo contains my leetcode solutions with Python.
 
 <b>Invert Tree : </b><br>
 ![invert_tree.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/invert_tree.jpg)<br><br>
+
+
+<b>Pasifik-Atlantik Sorusu : </b><br>
+![pasifik-atlantik.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/pasifik-atlantik.jpg)<br><br>
+
+
