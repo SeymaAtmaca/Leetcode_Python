@@ -33,3 +33,5 @@ This repo contains my leetcode solutions with Python.
 ![pasifik-atlantik.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/pasifik-atlantik.jpg)<br><br>
 
 
+<b> Unique Binary Search Trees : </b><br>
+![unique-trees](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/unique_binary_search_trees.jpg)
