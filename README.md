@@ -39,5 +39,5 @@ This repo contains my leetcode solutions with Python.
 
 
 <br><br>
-Max-Lenght-Of-Island <br>
+<b> Max-Lenght-Of-Island </b> <br>
 ![max_length_of_island](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/max_area_of_island.jpg)
