@@ -43,6 +43,13 @@ This repo contains my leetcode solutions with Python.
 ![max_length_of_island](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/max_area_of_island.jpg)
 
 
+
+<b>Flatten linked list : </b><br>
+![rotting_oranges.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/flatten.jpg) <br><br>
+
+
+
+
 <br><br>
 <b> Phone Letter Combination </b> <br>
 ![phone_letter](https://github.com/SeymaAtmaca/Leetcode_Python/blob/main/images/phone_letter.jpg)
