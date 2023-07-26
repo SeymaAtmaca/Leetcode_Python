@@ -49,6 +49,11 @@ This repo contains my leetcode solutions with Python.
 
 
 
+<b>Find all good indices : </b><br>
+![good_indices.jpg](https://github.com/SeymaAtmaca/Leetcode/blob/main/images/good_indices.jpg) <br><br>
+
+
+
 
 <br><br>
 <b> Phone Letter Combination </b> <br>
