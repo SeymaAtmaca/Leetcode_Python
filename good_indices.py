@@ -16,3 +16,20 @@ class Solution(object):
                     ret.append(i)
             else : continue
         return ret
+
+
+        
+# ayni soru cin uretilen yukaridaki cozum dogru olmakla beraber, uretilen diger cozumlere gore bir miktar yavas kalmaktadir.
+        # asagida verilen coum mantigi, uretilen cozume biraz daha yakin olmakla beraber daha hizli bir yontemdir. 
+        
+        # ret = []
+        # n = len(nums)
+        # pref = [1] * ( n+1 )
+        # suff = [1] * ( n+1 )
+        # for i in range(1, n):
+        #     if nums[i] <= nums[i-1]: pref[i] = pref[i-1] + 1 
+        # for i in range(n-2, -1, -1):
+        #     if nums[i] <= nums[i+1]: suff[i] = suff[i+1] + 1
+        # for i in range(k, n-k):
+        #     if pref[i-1] >= k and suff[i+1] >= k: ret.append(i)
+        # return ret
