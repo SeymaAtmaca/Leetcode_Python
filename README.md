@@ -58,3 +58,10 @@ This repo contains my leetcode solutions with Python.
 <br><br>
 <b> Phone Letter Combination </b> <br>
 ![phone_letter](https://github.com/SeymaAtmaca/Leetcode_Python/blob/main/images/phone_letter.jpg)
+
+
+
+
+<br><br>
+<b> Find The Value of Partition </b> <br>
+![find_the_value_of_partition](https://github.com/SeymaAtmaca/Leetcode_Python/blob/main/images/findTheValue.jpg)
