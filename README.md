@@ -61,7 +61,13 @@ This repo contains my leetcode solutions with Python.
 
 
 
-
 <br><br>
 <b> Find The Value of Partition </b> <br>
 ![find_the_value_of_partition](https://github.com/SeymaAtmaca/Leetcode_Python/blob/main/images/findTheValue.jpg)
+
+
+
+
+<br><br>
+<b> Game of Life </b> <br>
+![game_of_life](https://github.com/SeymaAtmaca/Leetcode_Python/blob/main/images/game_of_life.png)
