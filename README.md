@@ -71,3 +71,9 @@ This repo contains my leetcode solutions with Python.
 <br><br>
 <b> Game of Life </b> <br>
 ![game_of_life](https://github.com/SeymaAtmaca/Leetcode_Python/blob/main/images/game_of_life.png)
+
+
+
+<br><br>
+<b> Print Tree Options </b> <br>
+![tree](https://github.com/SeymaAtmaca/Leetcode_Python/blob/main/images/tree.png)
