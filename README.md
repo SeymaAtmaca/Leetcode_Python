@@ -1,5 +1,5 @@
 # Leetcode
-This repo contains my leetcode solutions with Python.
+This repo contains my leetcode solutions with Python. 
 <br><br>
 <h1>Technology</h1>
 <ul>
